@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css');
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ 
+.button-delete {
+    background-color: darkred !important;
+    color: white !important;
+}
+
+.button-grey {
+    background-color: slategray !important;
+    color: white !important;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+  
+tr:hover td {
+    background-color: white;
+}

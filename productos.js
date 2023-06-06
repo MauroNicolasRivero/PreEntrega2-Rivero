@@ -1,0 +1,10 @@
+const hamburguesas = [{imagen: '🍔', codigo: 1, tipo: 'Hamburguesa Simple', precio: 1000},
+                      {imagen: '🍔', codigo: 2, tipo: 'Hamburguesa con Jamon y Queso', precio: 1200},
+                      {imagen: '🍔', codigo: 3, tipo: 'Hamburguesa con Lechuga y tomate', precio: 1300},
+                      {imagen: '🍔', codigo: 4, tipo: 'Hamburguesa Completa', precio: 1500},
+                      {imagen: '🍔', codigo: 5, tipo: 'Hamburguesa con Cheddar y Panceta', precio: 1500},
+                      {imagen: '🍔', codigo: 6, tipo: 'Hamburguesa con Provoleta y Pimientos Ahumados', precio: 1600},
+                      {imagen: '🍔', codigo: 7, tipo: 'Hamburguesa Full Tasty', precio: 1700},
+                      {imagen: '🍔', codigo: 8, tipo: 'Hamburguesa Sabores', precio: 1800},
+                      {imagen: '🍔', codigo: 9, tipo: 'Hamburguesa Lola', precio: 2000},
+                      {imagen: '🍔', codigo: 10,tipo: 'Hamburguesa Lola Completa', precio: 2200}]
